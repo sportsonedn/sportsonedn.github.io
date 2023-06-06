@@ -1,0 +1,423 @@
+
+   .lin{
+        margin: 10px 0;
+        padding: 0;
+        height: 0;
+        border: none;
+        border-top: 10px solid #ff002b;
+    }  
+    
+  .lin2 {
+      margin: 20px 0;
+      padding: 0;
+      height: 10;
+      border: none;
+      border-top: 1px solid #333;
+    }
+
+
+  .buttonone{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1180px;
+    margin-top: -45px;
+  }
+  .buttonone{
+    transition: 0.5s linear; /* Время изменения */
+  }
+  .buttonone:hover {
+    color: #fff; /* Цвет текста */
+    background: #ff2a00; /* Цвет фона */
+  }
+
+
+  .buttontu{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1287px;
+   margin-top: -45px;
+  }
+  .buttontu{
+    transition: 0.5s linear; 
+  }
+  .buttontu:hover {
+    color: #fff; 
+    background: #ff2a00; 
+  }
+  
+  .sport{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 250px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.welcome{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    padding-left: 250px;
+    margin-top: -23px;
+    font-size: 15px;
+}
+
+.tex{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+  }
+.tex2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+
+  }
+
+
+  .priv1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 250px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 500;
+}
+.priv2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    padding-left: 250px;
+    margin-top: -23px;
+    font-size: 15px;
+}
+
+.rubr{
+    border: none;
+    margin-bottom: -18px;
+    margin-left: 360px;
+}
+
+
+
+
+.vk:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+
+
+
+.poss{
+    border: none;
+    text-decoration: none;
+    color: rgb(0, 16, 156);
+    
+    margin-left: 250px;
+}
+.poss:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+
+.poss2{
+   
+    border: none;
+    text-decoration: none;
+    color: rgb(0, 16, 156);
+    margin-left: 435px;
+    display: block;
+    margin-top: -19px;
+}
+.poss2:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+.poss3{
+   
+    border: none;
+    text-decoration: none;
+    color: rgb(0, 16, 156);
+    margin-left: 525px;
+    display: block;
+    margin-top: -17px;
+}
+.poss3:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+
+.poisk{
+  margin-left: -250px;
+  margin-top: -45px;
+}
+
+.p1{
+ 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 850px;
+  margin-top: 20px;
+}
+
+.p2{
+  text-decoration: none;
+  color: rgb(0, 16, 156);
+  margin-left: 850px;
+}
+.p2:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+.p3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 850px;
+  margin-top: 10px;
+}
+
+.p4{
+  border: none;
+  text-decoration: none;
+  color: rgb(0, 16, 156);
+  margin-left: 850px;
+    display: block;
+    margin-top: -2px;
+}
+.p4:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+.p5{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 850px;
+}
+
+.p6{
+  margin-left: 850px;
+  border: none;
+  text-decoration: none;
+  color: rgb(0, 16, 156);
+}
+.p6:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+.p7{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 850px;
+}
+
+.p8{
+  border: none;
+  text-decoration: none;
+  color: rgb(0, 16, 156);
+  margin-left: 850px;
+}
+.p8:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+.p9{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 850px;
+}
+
+.p10{
+  border: none;
+  text-decoration: none;
+  color: rgb(0, 16, 156);
+  margin-left: 850px;
+}
+.p10:hover{
+  color: #ff0000; /* Меняем цвет текста */
+}
+
+
+
+
+
+.vkon {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 10px 20px;
+  position: relative;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background: none;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.vkon:before, .vkon:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  box-sizing: border-box;
+}
+.vkon:before {
+  bottom: 0;
+  left: 0;
+  border-left: 1px solid rgb(1, 255, 56);
+  border-top: 1px solid rgb(126, 7, 162);
+  transition: 0s ease opacity .8s, .2s ease width .4s, .2s ease height .6s;
+}
+.vkon:after {
+  top: 0;
+  right: 0;
+  border-right: 1px solid rgb(254, 0, 0);
+  border-bottom: 1px solid rgb(10, 0, 0);
+  transition: 0s ease opacity .4s, .2s ease width, .2s ease height .2s;
+}
+.vkon:hover:before, 
+.vkon:hover:after {
+  height: 100%;
+  width: 100%;
+  opacity: 1;
+}
+.vkon:hover:before {
+  transition: 0s ease opacity 0s, .2s ease height, .2s ease width .2s;
+}
+.vkon:hover:after {
+  transition: 0s ease opacity .4s, .2s ease height .4s, .2s ease width .6s;
+}
+.vkon:hover {
+  background: rgba(149, 147, 147, 0.2);
+}
+
+.o1{
+  color: rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .button2{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1600px;
+   margin-top: -45px;
+  }
+  .button4{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1480px;
+   margin-top: -50px;
+  }
+  .button5{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1600px;
+   margin-top: -50px;
+  }
+  
+
+
+.a43{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+  .linia{
+    margin-top: 525px;
+  }
+  
+form{
+  margin-left: 1100px;
+  width: 400px;
+  margin-top: -120px;
+}
+input[type="text"] {
+  width: 40%; 
+  font-size: 20px; 
+}
+button[type="submit"] {
+  font-size: 20px; 
+}
+
+.a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.p28{
+  border: none;
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+  margin-top: -10px;
+}
+
+#map{
+  margin-top: 20px;
+}
+.p325{
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 25px;
+margin-left: 500px;
+}
+.p326{
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: 13px;
+}
+
